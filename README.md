@@ -24,5 +24,7 @@ A simple and interactive web-based To-Do list application built using **HTML, CS
 ## 💻 How to Run
 
 1️⃣ Clone the repository: git clone https://github.com/karun2328/To_do_app.git
+
 2️⃣ Navigate to the project folder: cd To_do_app
+
 3️⃣ Open index.html in your browser.
